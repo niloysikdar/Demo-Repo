@@ -1,4 +1,4 @@
-c = int(input())
-d = int(input())
+e = int(input())
+f = int(input())
 
-print(c+d)
+print(e+f)
